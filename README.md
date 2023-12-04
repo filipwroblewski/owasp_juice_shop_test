@@ -8,6 +8,8 @@
     └───chromedriver.exe
 ```
 
+chromedriver.exe version for Chrome 119.0.6045.x
+
 Faild
 ```
 F                                                                                       
